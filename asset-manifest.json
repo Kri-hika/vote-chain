@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vote-chain/static/css/main.c1ddd414.css",
-    "main.js": "/vote-chain/static/js/main.149d2849.js",
+    "main.js": "/vote-chain/static/js/main.ed864c31.js",
     "static/media/argon-design-system-react.css.map": "/vote-chain/static/media/argon-design-system-react.css.bbe6b7237f16a0471920.map",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/vote-chain/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
     "static/media/election_4.jpg": "/vote-chain/static/media/election_4.d0900bbd395b73ebf7d1.jpg",
@@ -48,10 +48,10 @@
     "static/media/signup.svg": "/vote-chain/static/media/signup.9d2e8675a3b63a81cc4f07a93dd51ea9.svg",
     "index.html": "/vote-chain/index.html",
     "main.c1ddd414.css.map": "/vote-chain/static/css/main.c1ddd414.css.map",
-    "main.149d2849.js.map": "/vote-chain/static/js/main.149d2849.js.map"
+    "main.ed864c31.js.map": "/vote-chain/static/js/main.ed864c31.js.map"
   },
   "entrypoints": [
     "static/css/main.c1ddd414.css",
-    "static/js/main.149d2849.js"
+    "static/js/main.ed864c31.js"
   ]
 }

@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/vote-chain/static/css/main.c1ddd414.css",
-    "main.js": "/vote-chain/static/js/main.ed864c31.js",
-    "static/media/argon-design-system-react.css.map": "/vote-chain/static/media/argon-design-system-react.css.bbe6b7237f16a0471920.map",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/vote-chain/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
+    "main.css": "/vote-chain/static/css/main.6122106f.css",
+    "main.js": "/vote-chain/static/js/main.239d54c2.js",
+    "static/media/argon-design-system-react.css.map": "/vote-chain/static/media/argon-design-system-react.css.efaf889e14a3a1b3fbe9.map",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/vote-chain/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/election_4.jpg": "/vote-chain/static/media/election_4.d0900bbd395b73ebf7d1.jpg",
     "static/media/election_2.jpg": "/vote-chain/static/media/election_2.3784aa70a3566639bce1.jpg",
     "static/media/fontawesome-webfont.eot": "/vote-chain/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/vote-chain/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/nucleo-icons.svg": "/vote-chain/static/media/nucleo-icons.95fa360c1c73431a0f9a.svg",
+    "static/media/nucleo-icons.svg": "/vote-chain/static/media/nucleo-icons.01ebecaf50461162d4bc.svg",
     "static/media/election_1.jpg": "/vote-chain/static/media/election_1.c8a48991cb8db0227346.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/vote-chain/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/vote-chain/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
@@ -47,11 +47,11 @@
     "static/media/election.svg": "/vote-chain/static/media/election.023a13ab8436a02fb2eaf4ef4a96af93.svg",
     "static/media/signup.svg": "/vote-chain/static/media/signup.9d2e8675a3b63a81cc4f07a93dd51ea9.svg",
     "index.html": "/vote-chain/index.html",
-    "main.c1ddd414.css.map": "/vote-chain/static/css/main.c1ddd414.css.map",
-    "main.ed864c31.js.map": "/vote-chain/static/js/main.ed864c31.js.map"
+    "main.6122106f.css.map": "/vote-chain/static/css/main.6122106f.css.map",
+    "main.239d54c2.js.map": "/vote-chain/static/js/main.239d54c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1ddd414.css",
-    "static/js/main.ed864c31.js"
+    "static/css/main.6122106f.css",
+    "static/js/main.239d54c2.js"
   ]
 }
